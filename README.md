@@ -10,7 +10,8 @@ Latest update: 2017-07-20
 Usage:
 Open the script and check the "Settings" area.
 
-The script is going to create keys for every host that it is defined in the variable "Hosts". If there are created keys for a specific host, there are not being overwritten.
+The script is going to create keys for every host that it is defined in the variable "Hosts". If there
+are created keys for a specific host, there are not being overwritten.
 
 Execute:
 ./mk-sstp-keys.sh
